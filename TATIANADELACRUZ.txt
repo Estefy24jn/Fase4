@@ -1,4 +1,3 @@
 {
-	"nombre":"Tatiana",
 	"apellido":"De La Cruz"
 }
