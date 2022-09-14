@@ -11,6 +11,9 @@
 		},
 		"EN_CLIENTEII_137": {
 			"name": "ClienteENI"
+		},
+		"EN_CLIENTESR_358": {
+			"name": "ClienteSAR"
 		}
 	},
 	"PRYCT": {
