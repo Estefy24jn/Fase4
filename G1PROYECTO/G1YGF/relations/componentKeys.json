@@ -2,6 +2,9 @@
 	"Entities": {
 		"EN_CLIENTEDB_234": {
 			"name": "ClienteDBP"
+		},
+		"EN_CLIENTEII_137": {
+			"name": "ClienteENI"
 		}
 	}
 }
