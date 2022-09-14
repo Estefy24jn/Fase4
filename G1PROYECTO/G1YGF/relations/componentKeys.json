@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_BRANCHDSV_594": {
+			"name": "EntidadBranch"
+		},
 		"EN_CLIENTECC_987": {
 			"name": "ClienteTDLC"
 		},
