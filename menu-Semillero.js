@@ -9,7 +9,7 @@
 			"MNU_SAR_CC":"Consultar Cliente",
 			"MNU_SAR_CCS":"Consultar Clientes"
 			"MNU_SAR": "Sebastian Arellano", 
-			"MNU_ENI": "Estefania Nicolalde",
+			"MNU_ENI": "Estefanía Nicolalde",
 			"MNU_TDLC": "Tatiana De La Cruz",
 			"MNU_EJM": "Ejemplo"
     }
