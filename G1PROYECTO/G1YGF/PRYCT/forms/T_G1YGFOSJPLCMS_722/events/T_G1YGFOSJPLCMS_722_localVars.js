@@ -1,0 +1,1 @@
+/* variables locales de T_G1YGFOSJPLCMS_722*/
