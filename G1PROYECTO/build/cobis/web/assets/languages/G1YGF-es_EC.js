@@ -1,0 +1,7 @@
+{
+	"G1YGF": {
+		"LBL_G1YGF_APELLIDOO_27560": "Apellido",
+		"LBL_G1YGF_GUARDARJO_88933": "Guardar",
+		"LBL_G1YGF_NOMBRESDK_72064": "Nombre"
+	}
+}
