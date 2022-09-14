@@ -1,6 +1,6 @@
 /*
  * Archivo: T_G1YGFOSJPLCMS_722.java
- * Fecha: 2022-09-14T18:57:26Z
+ * Fecha: 2022-09-14T20:05:45Z
  *
  * Esta aplicacion es parte de los paquetes bancarios propiedad de COBISCORP.
  * Su uso no autorizado queda expresamente prohibido asi como cualquier
