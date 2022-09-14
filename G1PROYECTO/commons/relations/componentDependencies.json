@@ -2,10 +2,6 @@
 	"CompositeForms": {
 	},
 	"Entities": {
-		"EN_CLIENTECE_848": {
-			"labels": [
-			]
-		},
 		"EN_CLIENTEDB_234": {
 			"labels": [
 			]
@@ -16,6 +12,31 @@
 		}
 	},
 	"Forms": {
+		"T_G1YGFOSJPLCMS_722": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CLIENTEDB_234": [
+					"AT83_APELLIOD234",
+					"AT96_NOMBRECJ234"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_G1YGF_APELLIDOO_27560",
+				"LBL_G1YGF_GUARDARJO_88933",
+				"LBL_G1YGF_NOMBRESDK_72064"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
 	},
 	"Queries": {
 	}

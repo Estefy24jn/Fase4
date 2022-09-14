@@ -9,5 +9,18 @@
 		"EN_CLIENTEII_137": {
 			"name": "ClienteENI"
 		}
+	},
+	"PRYCT": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_G1YGFOSJPLCMS_722": {
+				"name": "ClienteForm"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
 	}
 }
