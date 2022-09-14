@@ -1,1 +1,1 @@
-build
+G1PROYECTO/build
