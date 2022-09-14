@@ -12,5 +12,7 @@
 			"MNU_ENI": "Estefanía Nicolalde",
 			"MNU_TDLC": "Tatiana De La Cruz",
 			"MNU_EJM": "Ejemplo"
+			"MNU_EDCP":"Erick Columba",
+		
     }
 }
