@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_CLIENTECE_848": {
+			"name": "ClienteEDC"
+		},
 		"EN_CLIENTEDB_234": {
 			"name": "ClienteDBP"
 		},
