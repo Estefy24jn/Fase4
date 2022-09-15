@@ -22,6 +22,9 @@
 		"Forms": {
 			"T_G1YGFOSJPLCMS_722": {
 				"name": "ClienteForm"
+			},
+			"T_G1YGFUDJLMFGT_901": {
+				"name": "clienteFormENI"
 			}
 		},
 		"Queries": {

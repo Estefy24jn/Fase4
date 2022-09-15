@@ -44,6 +44,33 @@
 			},
 			"subForms": [
 			]
+		},
+		"T_G1YGFUDJLMFGT_901": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CLIENTEII_137": [
+					"AT24_EDADUOQN137",
+					"AT56_NOMBRERC137",
+					"AT63_APELLIOO137"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_G1YGF_APELLIDOO_27560",
+				"LBL_G1YGF_EDADPBFXA_81811",
+				"LBL_G1YGF_GUARDARJO_88933",
+				"LBL_G1YGF_NOMBRESDK_72064"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
 		}
 	},
 	"Queries": {
