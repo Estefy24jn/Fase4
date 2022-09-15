@@ -2,8 +2,12 @@
 	"G1YGF": {
 		"LBL": {
 			"LBL_G1YGF_APELLIDOO_27560": "Apellido",
+			"LBL_G1YGF_CEDULADMQ_76722": "Cedula",
+			"LBL_G1YGF_CODIGOJVJ_82583": "Codigo",
+			"LBL_G1YGF_DIRECCINN_22732": "Direccion",
 			"LBL_G1YGF_GUARDARJO_88933": "Guardar",
-			"LBL_G1YGF_NOMBRESDK_72064": "Nombre"
+			"LBL_G1YGF_NOMBRESDK_72064": "Nombre",
+			"LBL_G1YGF_TELEFONOO_98786": "Telefono"
 		},
 		"MSG": {
 		}

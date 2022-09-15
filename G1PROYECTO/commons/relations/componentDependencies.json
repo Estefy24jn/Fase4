@@ -20,6 +20,38 @@
 		}
 	},
 	"Forms": {
+		"T_G1YGFNTFKUPJL_434": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CLIENTESR_358": [
+					"AT16_APELLIDO358",
+					"AT20_NOMBREJE358",
+					"AT49_CEDULAAR358",
+					"AT65_DIRECCNO358",
+					"AT66_CODIGOLW358",
+					"AT76_TELEFONO358"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_G1YGF_APELLIDOO_27560",
+				"LBL_G1YGF_CEDULADMQ_76722",
+				"LBL_G1YGF_CODIGOJVJ_82583",
+				"LBL_G1YGF_DIRECCINN_22732",
+				"LBL_G1YGF_NOMBRESDK_72064",
+				"LBL_G1YGF_TELEFONOO_98786"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
 		"T_G1YGFOSJPLCMS_722": {
 			"blis": [
 			],
